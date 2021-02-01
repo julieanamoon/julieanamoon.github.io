@@ -29,3 +29,4 @@ $(document).on("click", "#menu a", loadpage);
 //         qerjadsf
 //     }
 // })
+
